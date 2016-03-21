@@ -5,7 +5,7 @@
  * 
  * @section course_section Course Information 
  *
- * @author Mark Buttenhoff
+ * @author Mark
  * 
  * @section program_section Program Information 
  * 
@@ -216,7 +216,7 @@ equation:
 	.global main
 
 /**************************************************************************//** 
- * @author Mark Buttenhoff
+ * @author Mark
  * 
  * @par Description: The main function pops r4-r11 off of the stack, and loads
  * the .word enterlower as a prompt for the lower value. It uses scanf to get
@@ -340,7 +340,7 @@ main:
 
 	
 /**************************************************************************//** 
- * @author Mark Buttenhoff
+ * @author Mark
  * 
  * @par Description: The loop function moves x to r0, fractional bits to r1,
  * and the decimal points to r2, and calls printS to print the value of x.
