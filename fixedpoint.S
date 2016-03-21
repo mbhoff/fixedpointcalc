@@ -108,7 +108,7 @@ yheader:		.asciz "y"
 
 
 /**************************************************************************//** 
- * @author Mark Buttenhoff
+ * @author Mark
  * 
  * @par Description: This function passes in an x value in r4 and returns the
  * y value for the equation f(x) = ((5x^2 - 3x^2 + 2x + 20)/11) in r8
